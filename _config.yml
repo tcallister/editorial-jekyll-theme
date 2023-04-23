@@ -14,7 +14,7 @@ country: United States of America
 phone: (716) 555-5555
 
 # Social settings
-500px_url: test
+500px_url: 
 facebook_url:
 github_url: https://github.com/tcallister
 gitlab_url: 
@@ -24,6 +24,7 @@ linkedin_url:
 pinterest_url:
 slack_url:
 twitter_url: 
+googlescholar_url: https://scholar.google.com/citations?user=yFMi2DAAAAAJ&hl=en
 
 # Build settings
 markdown: kramdown
