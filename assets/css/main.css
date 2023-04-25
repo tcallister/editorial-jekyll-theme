@@ -3883,7 +3883,7 @@
 			flex-shrink: 0;
 			display: block;
 			margin: 0 0 2em 4em;
-			width: 20%;
+            max-height: 30vh;
 		}
 
 			#banner .image img {
