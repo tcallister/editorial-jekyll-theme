@@ -3155,10 +3155,10 @@
 				}
 
 				.features article .icon:after {
-					-moz-transform: rotate(45deg);
-					-webkit-transform: rotate(45deg);
-					-ms-transform: rotate(45deg);
-					transform: rotate(45deg);
+					-moz-transform: rotate(85deg);
+					-webkit-transform: rotate(85deg);
+					-ms-transform: rotate(85deg);
+					transform: rotate(85deg);
 					border-radius: 0.25rem;
 					border: solid 2px rgba(210, 215, 217, 0.75);
 					content: '';
